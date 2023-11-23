@@ -1,7 +1,8 @@
 # SQLGP: Query Your MySQL Database Without Coding Knowledge
 
 SQL is a crucial skill in data-related jobs like data science, analytics, and engineering. It's the language we use to talk to databases and extract insights. In this project, I enhanced Language Models (LLMs) with LangChain. The goal was to make querying databases and asking questions accessible to everyone, even those without SQL knowledge. It's about simplifying data analysis for all
-<img src = "img/viz1.jpg"  width ="500"/>
+<img src = "src/sql_demand.png"  width ="500"/>
+
 
 ### Proejct Overview
 ![alt Text](https://github.com/meysamraz/SQLGPT-langchain-ask-question-from-your-MYSQL-database/blob/master/src/demo_sqlgpt.gif)
