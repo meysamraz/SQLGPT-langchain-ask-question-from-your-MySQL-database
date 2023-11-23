@@ -1,6 +1,6 @@
 # SQLGP: Query Your MySQL Database Without Coding Knowledge
 
-SQL is a crucial skill in data-related jobs like data science, analytics, and engineering. It's the language we use to talk to databases and extract insights. In this project, I enhanced Language Models (LLMs) with LangChain. The goal was to make querying databases and asking questions accessible to everyone, even those without SQL knowledge. It's about simplifying data analysis for all
+SQL is a crucial skill in data-related jobs like data science, analytics, and engineering. It's the language we use to talk to databases and extract insights. In this project, I enhanced Language Models (LLMs) with LangChain. The goal was to make querying databases and asking questions accessible to everyone, even those without SQL knowledge. It's about simplifying data analysis using SQL for all
 <img src = "src/sql_demand.png"  width ="800"/>
 
 
