@@ -33,7 +33,7 @@ For the user interface, I chose Streamlit, a Python library that simplifies the 
 
 While the LLMs may not have answers to every question initially due to knowledge limitations, I've implemented a solution. Unanswered questions are collected and stored in a database weekly using Apache Airflow. These questions undergo human review for correction and are then added to a vector database, enhancing the model's knowledge over time.
 
-![alt Text]([https://github.com/meysamraz/SQLGPT-langchain-ask-question-from-your-MYSQL-database/blob/master/src/demo_sqlgpt.gif](https://github.com/meysamraz/SQLGPT-langchain-ask-question-from-your-MYSQL-database/blob/master/src/SQLGPT_demo.png))
+![alt Text](https://github.com/meysamraz/SQLGPT-langchain-ask-question-from-your-MYSQL-database/blob/master/src/SQLGPT_demo.png)
 
 
 ## Future Updates: 
