@@ -56,13 +56,13 @@ Enable the model to handle queries on large datasets by integrating support for 
 
 
 ## Libraries and Frameworks Used in the Project:
-- chromadb==0.4.15
-- langchain==0.0.284
-- protobuf==3.19.0
+- chromadb 0.4.15
+- langchain 0.0.284
+- protobuf 3.19.0
 - google-generativeai
 - langchain_experimental
 - mysql-connector-python
 - pymysql
-- streamlit
+- streamlit 1.28.2
 - sentence-transformers
-- apache-airflow==2.7.1
+- apache-airflow 2.7.1
