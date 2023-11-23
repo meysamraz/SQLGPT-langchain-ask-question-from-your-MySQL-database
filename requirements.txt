@@ -1,0 +1,11 @@
+chromadb==0.4.15
+langchain==0.0.284
+protobuf==3.19.0
+google-generativeai
+langchain_experimental
+mysql-connector-python
+pymysql
+streamlit
+pysqlite3-binary
+sentence-transformers
+selenium==4.15.1
